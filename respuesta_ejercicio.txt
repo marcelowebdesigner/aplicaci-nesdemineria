@@ -1,0 +1,12 @@
+Con las variables de esta semana, las áreas que se agrupan son:
+1) El sistema fluvial activo e islas de inundación, definido por la superposición del cauce principal del río Paraná y las masas de agua detectadas espectralmente mediante el índice MNDWI.
+2) La ribera de interfase inmediata, delimitada geométricamente por la franja de amortiguación de 500 m adyacente al cauce que contacta con los bordes de los departamentos La Capital, Paraná y Diamante.
+3) La terraza alta o territorio interior continental, situado dentro de los límites departamentales pero fuera de la franja de 500 m y sin presencia de agua libre en la fecha analizada.
+
+Cuando el río sube, de esos grupos se lee:
+Únicamente la condición de cobertura hídrica instantánea capturada por el sensor en esa fecha particular. Sin contar con un Modelo Digital de Elevación (DEM) ni datos topográficos de cota o pendiente, todavía no se puede predecir ni modelar el avance escalonado del agua ante crecidas de +2 m, +4 m y +6 m. La máscara de agua actual es una fotografía estática del nivel del río, no un modelo predictivo de susceptibilidad hídrica.
+
+Dos lugares son del mismo tipo cuando:
+Comparten la misma relación espacial respecto a la ribera (estar ambos dentro o fuera del buffer de 500 m del cauce), la misma pertenencia administrativa territorial y la presencia o ausencia simultánea de agua superficial registrada por el índice espectral en la escena.
+
+Con el cauce, la franja de 500 m y el agua de esta escena, estos lugares son del mismo tipo porque comparten proximidad de ribera y cobertura hídrica instantánea. El río que sube en +2 m, +4 m y +6 m todavía no se lee: falta el terreno.
