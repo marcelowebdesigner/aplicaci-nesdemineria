@@ -36,6 +36,10 @@ El proyecto integra fuentes de datos vectoriales (límites administrativos, hidr
 
 ---
 
+## Deploy
+https://marcelowebdesigner.github.io/appdemineria/
+https://marcelowebdesigner.github.io/appdemineria/visor_ejercicio.html
+
 ## 🚀 Requisitos de Ejecución Local
 
 Para reproducir el notebook localmente:
