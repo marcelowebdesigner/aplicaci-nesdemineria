@@ -1,0 +1,7 @@
+Con las variables de esta semana, las áreas que se agrupan son sectores con características del terreno similares, separando claramente las zonas bajas y deprimidas (planicies y valles de inundación con baja cota y bajo HAND) de las zonas altas o mesetas que funcionan como áreas de resguardo.
+
+Cuando el río sube +2 m, +4 m y +6 m, de esos grupos se lee que los sectores más bajos son los primeros y más masivamente afectados por el anegamiento, poniendo en evidencia la vulnerabilidad de los asentamientos (como RENABAP) ubicados allí. Cabe aclarar que el HAND funciona como un umbral de altura relativa y no como una inundación modelada con dinámica de caudales o defensas.
+
+Si sumo las coordenadas, los grupos dejan de formarse únicamente por similitud de terreno y pasan a agruperse por cercanía geográfica, obligando a que los elementos del territorio sean vecinos continuos en el espacio.
+
+El uso del HAND nos marca umbrales topográficos relativos muy útiles para estimar la exposición directa de las poblaciones ante distintas alturas de crecida.

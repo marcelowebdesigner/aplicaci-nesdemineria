@@ -1,0 +1,5 @@
+grupo,total_hexagonos,cota_promedio,pendiente_promedio,hand_mediano,afectados_2m,afectados_4m,afectados_6m,uso_suelo_dominante
+0,1298,14.21,0.01,0.59,1102,1243,1273,herbaceo_inundable
+1,1967,14.92,0.02,1.32,1231,1595,1732,herbaceo_inundable
+2,634,48.74,0.04,6.25,35,158,283,agropecuario
+3,663,77.87,0.04,20.35,0,0,0,agropecuario
